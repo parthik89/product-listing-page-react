@@ -1,0 +1,15 @@
+.CartHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.CartLeft {
+  display: flex;
+  padding-left: 10px;
+  width: 60%;
+  /* background-color: wheat; */
+}
+
+.CartLeft > div {
+  padding-left: 70px;
+}

@@ -1,0 +1,11 @@
+.ThankYoubody {
+  box-sizing: border-box;
+  height: 100vh;
+  width: 250vh;
+  align-items: center;
+  text-align: center;
+
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}

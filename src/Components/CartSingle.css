@@ -1,0 +1,58 @@
+.cartSingle {
+  display: flex;
+  margin-top: 10px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+
+.cartsingleImg > img {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
+
+.Bold {
+  color: blue;
+  font-weight: 600;
+}
+
+.cartTitle {
+  margin-left: 5px;
+  width: 110px;
+  height: 50px;
+  padding-left: 10px;
+}
+
+.cartprice {
+  margin-left: 5px;
+  width: 100px;
+  height: 50px;
+  padding-left: 18px;
+}
+.cartbtns {
+  display: flex;
+  border: 2px solid rgb(175, 169, 169);
+  margin-left: 5px;
+  border-radius: 25px;
+  width: 120px;
+  height: 38px;
+  background-color: whitesmoke;
+  align-items: center;
+}
+.cartbtns > button {
+  align-items: center;
+
+  height: 25px;
+  margin-left: 15px;
+  background-color: whitesmoke;
+  border: 2px solid whitesmoke;
+  font-size: large;
+}
+
+.cartbtns > button:hover {
+  cursor: pointer;
+}
+
+.cartbtns > div {
+  margin-left: 15px;
+}

@@ -1,0 +1,48 @@
+.FiltrHeader {
+  display: flex;
+  justify-content: space-between;
+  height: 55px;
+  align-items: center;
+  /* background-color: aqua; */
+}
+
+.LeftFilter {
+  display: flex;
+}
+.LeftFilter > div {
+  margin-left: 15px;
+}
+
+.RightFilter {
+  display: flex;
+}
+
+.RightFilter > div {
+  margin-right: 15px;
+}
+
+.selectFilter {
+  height: 25px;
+  width: 130px;
+}
+.InputFilter {
+  height: 25px;
+  width: 130px;
+}
+
+.btn {
+  background-color: rgb(82, 214, 234);
+  height: 30px;
+  width: 100px;
+}
+.LinkReset:hover {
+  color: rgb(52, 86, 107);
+}
+.LinkReset {
+  font-weight: bold;
+  color: #62aac6;
+  cursor: pointer;
+}
+.navlink {
+  text-decoration: none;
+}

@@ -1,0 +1,66 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.A12 {
+  width: 290px;
+  height: 50px;
+  /* background-color: darkkhaki; */
+}
+
+.A21 {
+  width: 150px;
+  height: 50px;
+  /* background-color: darkkhaki; */
+  padding-left: 25px;
+}
+
+.A22 {
+  width: 100px;
+  height: 50px;
+  /* background-color: darkkhaki; */
+  margin-right: 23px;
+}
+
+.A23 {
+  width: 100px;
+  height: 50px;
+  /* background-color: darkkhaki; */
+  margin-right: -40px;
+}
+.A3 {
+  width: 250px;
+  height: 50px;
+  /* background-color: darkkhaki; */
+}
+
+.A11 {
+  /* background-color: darkkhaki; */
+  height: 50px;
+  width: 72px;
+}
+/* .A1 {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.A1 > .A11 {
+  padding-left: 20px;
+}
+
+.A1 > .A12 {
+  padding-left: 60px;
+}
+
+.A2 {
+  display: flex;
+  }
+.A2 > .A21 {
+  padding-left: 0px;
+}
+.A2 > .A22,
+.A2 > .A23 {
+  padding-left: 90px;
+} */

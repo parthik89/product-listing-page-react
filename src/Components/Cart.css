@@ -1,0 +1,67 @@
+.cartcontent {
+  width: 60%;
+}
+.carth1 {
+  text-align: center;
+}
+
+.cartbiwse {
+  display: flex;
+  margin-top: 19px;
+}
+.subTotalBox {
+  width: 300px;
+  height: 250px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  align-items: center;
+  align-content: center;
+}
+
+.bigbtn {
+  display: flex;
+  border: 2px solid rgb(175, 169, 169);
+  margin-left: 25px;
+  border-radius: 25px;
+  width: 250px;
+  height: 38px;
+  background-color: #1a73e8;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  color: white;
+  font-weight: 600;
+}
+
+.cartCheckoutBtn {
+  align-items: center;
+  margin-top: 29px;
+}
+
+.subTotal {
+  display: flex;
+  justify-content: space-around;
+}
+
+.subTotal > div {
+  font-weight: 600;
+}
+.hr {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgb(157, 162, 165),
+    rgba(0, 0, 0, 0)
+  );
+}
+
+.CartBody {
+  margin-top: 15px;
+}
+
+.navlinkcart {
+  text-decoration: none;
+  color: white;
+}
